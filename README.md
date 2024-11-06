@@ -71,9 +71,9 @@ The Form component uses conditional rendering to:
 
 
 ## Technologies
-React (v18.3.1)
-React-Dom (v18.3.1)
-React-Scripts (v5.0.1)
+- React (v18.3.1)
+- React-Dom (v18.3.1)
+- React-Scripts (v5.0.1)
 
 
 ## Scripts
